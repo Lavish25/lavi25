@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lavish25&label=Profile%20views&color=0e75b6&style=flat" alt="lavish25" /> </p>
 
-- 🔭 I’m currently working on **All ott in one app**
+- 🔭 I’m currently working as **freelancer**
 
 - 🌱 I’m currently learning **Java,reactjs, angular**
 
