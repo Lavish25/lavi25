@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as **freelancer**
 
-- 🌱 I’m currently learning **Java,reactjs, angular**
+- 🌱 I’m currently learning **JavaScript,reactjs, Node js**
 
 - 📫 How to reach me **lavishs121@gmail.com**
 
